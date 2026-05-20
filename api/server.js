@@ -14,7 +14,7 @@ const middlewares = jsonServer.defaults();
 
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://movie-mania-silk.vercel.app",
+  "movies-app-mubariz.vercel.app",
 ];
 
 server.use(
